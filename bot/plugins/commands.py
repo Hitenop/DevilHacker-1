@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @DevilHackerRakesh
+# (c) @AlbertEinsteinTG @hiten003
 
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
@@ -23,7 +23,7 @@ async def start(bot, update):
         if (file_id or file_type) == None:
             return
         
-        caption = ("<code>" + file_name + """</code>\n<b>All Movies Here 👇 @TheModdingGod</b>""")
+        caption = ("<code>" + file_name + """</code>\n<b>All Movies Here 👇 @request_moviesorseries</b>""")
 
         if file_type == "document":
         
@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/TheModdingGod"
+                                    '⭕ JOIN MAIN GROUP ⭕', url="https://t.me/request_moviesorseries"
                                 )
                         ]
                     ]
@@ -91,10 +91,10 @@ async def start(bot, update):
 # © shamilhabeebnelli
 
     buttons = [[
-        InlineKeyboardButton('😈Developer👿', url='https://t.me/DevilHackerRakesh'),
+        InlineKeyboardButton('DEV👨‍🔧', url='https://t.me/hiten003'),
         InlineKeyboardButton('😘Source Code', url ='https://github.com/rakeshyt/DevilHacker')
     ],[
-        InlineKeyboardButton('💁 Support 💁', url='https://t.me/TheModdingGod')
+        InlineKeyboardButton('💁 Support 💁', url='https://t.me/request_moviesorseries')
     ],[
         InlineKeyboardButton('🇮🇳 Help 🇮🇳', callback_data="help")
     ]]
