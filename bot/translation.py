@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG @DevilHackerRakesh
+# (c) @AlbertEinsteinTG @hiten003
 
 class Translation(object):
     
@@ -10,7 +10,7 @@ class Translation(object):
 You can't Add me to your Group 🔥🔥😝
 
 For More Details Click Help Button Below..
-@TheModdingGod
+@Moviesprimeoff
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> 😈𓆩𝕯𝖊𝖛𝖎𝖑 𝕳𝖆𝖈𝖐𝖊𝖗𓆪😈 Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/DevilHackerRakesh">😈𓆩𝕯𝖊𝖛𝖎𝖑 𝕳𝖆𝖈𝖐𝖊𝖗𓆪😈</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/hiten003">Hiten</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
