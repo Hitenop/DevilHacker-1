@@ -49,5 +49,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Support</b> : <i><a href="https://t.me/moviesprimeoff">Click Me</a></i>
+<b>➥ Developers</b> : <i><a href="https://t.me/moviesprimeoff">Click Me</a></i>
 """
