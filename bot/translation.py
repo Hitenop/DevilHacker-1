@@ -7,7 +7,7 @@ class Translation(object):
     START_TEXT = """<b><u>How are you! {}!!</b></u>
 <i>Am Just Autofilter Bot....😉
 
-You can't Add me to your Group 🔥🔥😝
+You Add me to your Group easily by following steps mentioned /help 🔥🔥
 
 For More Details Click Help Button Below..
 @Moviesprimeoff
@@ -49,5 +49,5 @@ For More Details Click Help Button Below..
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/Hitenop/DevilHacker-1">Click Me</a></i>
+<b>➥ Support</b> : <i><a href="https://t.me/moviesprimeoff">Click Me</a></i>
 """
